@@ -27,7 +27,7 @@ Setup:
 
 Q&A:
     Q: Who is this script designed for?
-    A: Those people comfortable with the command line that want to backup their media on a FTP server. Personnally I use it to upload my photo I want to share.
+    A: Those people comfortable with the command line that want to backup their media on a FTP server. Personnally I use it to upload photos I want to share on a website.
     
     Q: Is it well coded
     A: Not so much but it does what I need :)
